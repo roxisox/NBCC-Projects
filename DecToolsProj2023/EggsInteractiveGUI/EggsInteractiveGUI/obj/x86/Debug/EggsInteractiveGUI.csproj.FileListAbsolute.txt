@@ -1,0 +1,20 @@
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.AssemblyReference.cache
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.frmMain.resources
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.GenerateResource.cache
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.exe
+C:\repos\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.pdb
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.frmMain.resources
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.exe
+C:\Users\patel\OneDrive - NBCC\FALL - 2023\DecToolsProj2023\EggsInteractiveGUI\EggsInteractiveGUI\obj\x86\Debug\EggsInteractiveGUI.pdb
